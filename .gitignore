@@ -1,3 +1,5 @@
+# Local temp folder
+temp/
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
